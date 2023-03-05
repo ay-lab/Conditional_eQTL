@@ -1,5 +1,18 @@
-Conditional analysis default code
+Conditional eQTL analysis
 =======================================
+
+Developed by: Sourya Bhattacharyya
+
+La Jolla Institute for Immunology
+
+Documents
+-------------
+
+For details of conditional eQTL analysis, see the following papers and documentation:
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6075455/
+
+http://www.bios.unc.edu/research/genomic_software/Matrix_eQTL/
 
 The lead SNP in each iteration will be used as the covariate in the next iteration, 
 until we do not find any significant SNP.
